@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MyComputer\\Desktop\\Project\\OnChat\\API\\API.csproj": {}
+    "C:\\Users\\MyComputer\\Project_App\\On_Chat_App\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MyComputer\\Desktop\\Project\\OnChat\\API\\API.csproj": {
+    "C:\\Users\\MyComputer\\Project_App\\On_Chat_App\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MyComputer\\Desktop\\Project\\OnChat\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\MyComputer\\Project_App\\On_Chat_App\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\MyComputer\\Desktop\\Project\\OnChat\\API\\API.csproj",
+        "projectPath": "C:\\Users\\MyComputer\\Project_App\\On_Chat_App\\API\\API.csproj",
         "packagesPath": "C:\\Users\\MyComputer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MyComputer\\Desktop\\Project\\OnChat\\API\\obj\\",
+        "outputPath": "C:\\Users\\MyComputer\\Project_App\\On_Chat_App\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MyComputer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,16 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
