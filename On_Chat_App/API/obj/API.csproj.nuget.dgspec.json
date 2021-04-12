@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\MyComputer\\Project_App\\On_Chat_App\\API\\API.csproj": {}
+    "C:\\Users\\MyComputer\\Project_App\\On_Chat_App\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\MyComputer\\Project_App\\On_Chat_App\\API\\API.csproj": {
+    "C:\\Users\\MyComputer\\Project_App\\On_Chat_App\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\MyComputer\\Project_App\\On_Chat_App\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\MyComputer\\Project_App\\On_Chat_App\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\MyComputer\\Project_App\\On_Chat_App\\API\\API.csproj",
+        "projectPath": "C:\\Users\\MyComputer\\Project_App\\On_Chat_App\\API\\API.csproj",
         "packagesPath": "C:\\Users\\MyComputer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\MyComputer\\Project_App\\On_Chat_App\\API\\obj\\",
+        "outputPath": "C:\\Users\\MyComputer\\Project_App\\On_Chat_App\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MyComputer\\AppData\\Roaming\\NuGet\\NuGet.Config"
